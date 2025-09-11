@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Oiii eu sou o Victor Velasco, estudante de programação e apaixonado por tecnologia!
 <!--
 **victorsvelasco/victorsvelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
